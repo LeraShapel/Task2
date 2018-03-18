@@ -2,3 +2,4 @@ point 1.2
 
 new commit
 commit 3
+point 2.1
